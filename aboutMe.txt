@@ -1,0 +1,3 @@
+Name: Siena
+Major: COEN
+Grad Year: 2022
